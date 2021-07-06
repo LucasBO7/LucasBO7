@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasBO7
-- 👀 I’m interested in Programing and games
+- 👀 I’m interested in Programing web and games
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in my email: lucasbianchezzi700@gmail.com
