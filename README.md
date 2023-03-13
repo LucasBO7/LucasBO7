@@ -14,3 +14,5 @@ I love programming, I do it as a hobby and work.
 LucasBO7/LucasBO7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Linguagens de Programação / Programming Languages
