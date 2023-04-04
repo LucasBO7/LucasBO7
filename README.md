@@ -20,5 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Linguagens</h3>
 <h5>Front-end</h5>
-<img height="80px" src="https://user-images.githubusercontent.com/87036915/229872354-261ad55b-f3cc-46a2-b8ed-e69113c00f83.png"/>
-<img height="80px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
+<div style="display:flex;flex-direction:column;">
+  <img height="80px" src="https://user-images.githubusercontent.com/87036915/229872354-261ad55b-f3cc-46a2-b8ed-e69113c00f83.png"/>
+  <img height="80px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
+</div>
