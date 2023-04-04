@@ -25,3 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img height="80px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
 </div>
 <h3>Back-end</h5>
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
