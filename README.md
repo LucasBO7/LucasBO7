@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <h3>Back-end</h5>
 
 <!--- Adiciona o nome do usuário --->
-[![Lucas Bianchezzi Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBO7&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Bianchezzi Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBO7&github-readme-stats&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
