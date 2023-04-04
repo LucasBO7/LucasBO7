@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <h3>Back-end</h5>
 
 <!--- Adiciona o nome do usuário --->
-[![Lucas Bianchezzi Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas Bianchezzi Oliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Bianchezzi Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBO7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- Adiciona o total de contribuições --->
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas Bianchezzi Oliveira&count_private=true)
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas Bianchezzi Oliveira&show_icons=true&theme=radical)
 
 <!--- Adiciona a tabela --->
-[![Lucas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lucas Bianchezzi Oliveira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Lucas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lucas Bianchezzi Oliveira&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Lucas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LucasBO7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Lucas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LucasBO7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
