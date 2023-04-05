@@ -1,8 +1,25 @@
-<style>
-  h4{
-    color: yellow;
-  }
-</style>
+# Lucas Bianchezzi Oliveira
+Desenvolvedor de Sistemas Full-stack
+
+
+
+***Linguagens:*** Inglês (avançado)Português (nativo)
+
+Olá, eu me chamo Lucas, nasci em 2007, Brasil - SP. Sempre tive um grande interesse em tecnologia e atuo na área de Desenvolvimento de Sistemas. Adoro programar, faço como hobby e cunho profissional. Me considero uma pessoa muito curiosa, disposto a novos aprendizados, amigável...
+
+
+![Instagram](https://user-images.githubusercontent.com/87036915/230159935-18e9af43-c27c-402e-8063-7ee39e4e6828.png)
+[Instagram](https://www.instagram.com)
+
+
+
+## Informações Técnicas
+### Cursos e Certificados
+ - ...
+
+### Linguagens e Ferramentas
+- ...
+
 - 👋 Hi, I’m @LucasBO7
 - 👀 I’m interested in Programing web and system applications
 - 🌱 I’m currently learning C#
@@ -31,6 +48,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h3>Back-end</h5>
 
+
+<!-- Tabela -->
 <!--- Adiciona o nome do usuário --->
 [![Lucas Bianchezzi Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBO7&github-readme-stats&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
