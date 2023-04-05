@@ -21,9 +21,9 @@ Olá, eu me chamo Lucas, nasci em 2007, Brasil - SP. Sempre tive um grande inter
 
 ### Linguagens e Ferramentas
 <div style="display:inline;">
-  <img height="80px" src="https://user-images.githubusercontent.com/87036915/229872354-261ad55b-f3cc-46a2-b8ed-e69113c00f83.png"/>
-  <img height="80px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
- <img height="80px" src="https://user-images.githubusercontent.com/87036915/230175283-b0dce678-53cf-426a-b9f5-f1159437d1c3.png"/>
+  <img height="60px" src="https://user-images.githubusercontent.com/87036915/229872354-261ad55b-f3cc-46a2-b8ed-e69113c00f83.png"/>
+  <img height="60px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
+ <img height="60px" src="https://user-images.githubusercontent.com/87036915/230175283-b0dce678-53cf-426a-b9f5-f1159437d1c3.png"/>
 </div>
 
 <!-- Tabela -->
