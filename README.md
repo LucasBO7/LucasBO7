@@ -10,11 +10,15 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 
 <div style="display:inline;">
  
+<div>
+<h2>🌐 Contato 🌐</h2> 
+ <a href = "mailto:lucasbianchezzi700@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 ![Instagram-img](https://user-images.githubusercontent.com/87036915/230159935-18e9af43-c27c-402e-8063-7ee39e4e6828.png)
 [Instagram](https://www.instagram.com)
 ![Linkedin-img](https://user-images.githubusercontent.com/87036915/230168158-e4a9b03d-d83d-4d3a-b04d-381d4bd9a615.png)
 [linkedin](https://www.linkedin.com)
- 
+
 </div>
 
 ## Informações Técnicas
