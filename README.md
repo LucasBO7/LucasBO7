@@ -6,6 +6,8 @@ Desenvolvedor de Sistemas Full-stack
 
 Olá, eu me chamo Lucas, nasci em 2007, Brasil - SP. Sempre tive um grande interesse em tecnologia e atuo na área de Desenvolvimento de Sistemas. Adoro programar, faço como hobby e cunho profissional. Me considero uma pessoa muito curiosa, disposto a novos aprendizados, amigável...
 
+Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest in tecnology and i act in the System`s Development area. I really like to develop, I do it as a hobby and professionally. I consider myself a very curious person, willing to learn new things...
+
 <div style="display:inline;">
  
 ![Instagram-img](https://user-images.githubusercontent.com/87036915/230159935-18e9af43-c27c-402e-8063-7ee39e4e6828.png)
