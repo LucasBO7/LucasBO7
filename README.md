@@ -1,5 +1,5 @@
 # Lucas Bianchezzi Oliveira
-Estudando para me tornar um Desenvolvedor de Sistemas Full-stack
+Estudando para me tornar um Desenvolvedor de Sistemas Full-stack.
 
 ***Linguagens:*** Inglês (avançado) <img height="20px" src="https://user-images.githubusercontent.com/87036915/230169640-1db25195-2961-4783-b071-696541b45eaf.png"/> Português (nativo) <img height="20px" src="https://user-images.githubusercontent.com/87036915/230169610-cdbe5e93-d109-43aa-ab03-1ac1f9195d04.png"/>
 
@@ -21,6 +21,9 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 ## Informações Técnicas
 ### Cursos e Certificados
  - <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c4776bd2-d58d-4551-8011-cf7809a5fddf.pdf">C# Completo e Programação Orientada a Objetos - Udemy</a>
+ - <a href="https://github.com/LucasBO7/LucasBO7/files/12811424/134PPD1S23CAITEC-Certificado_1907764.pdf">Privacidade e Proteção de dados LGPD - Senai Paulo Skaf</a>
+- <a href="https://github.com/LucasBO7/LucasBO7/files/12811428/134ECC1S23CAITEC-Certificado_1907780.pdf">Economia Circular - Senai Paulo Skaf</a>
+- <a href="https://github.com/LucasBO7/LucasBO7/files/12811433/134D5G1S23CAITEC-Certificado_1904636.pdf">Desvendando o 5G - Senai Paulo Skaf</a>
 
 ### Linguagens e Ferramentas
 <div style="display:inline;">
