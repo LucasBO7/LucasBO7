@@ -20,16 +20,18 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 
 ## Informações Técnicas
 ### Cursos e Certificados
- - <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c4776bd2-d58d-4551-8011-cf7809a5fddf.pdf">C# Completo e Programação Orientada a Objetos - Udemy</a>
- - <a href="https://github.com/LucasBO7/LucasBO7/files/12811424/134PPD1S23CAITEC-Certificado_1907764.pdf">Privacidade e Proteção de dados LGPD - Senai Paulo Skaf</a>
+- <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c4776bd2-d58d-4551-8011-cf7809a5fddf.pdf">C# Completo e Programação Orientada a Objetos - Udemy</a>
+- <a href="https://github.com/LucasBO7/LucasBO7/files/12811424/134PPD1S23CAITEC-Certificado_1907764.pdf">Privacidade e Proteção de dados LGPD - Senai Paulo Skaf</a>
 - <a href="https://github.com/LucasBO7/LucasBO7/files/12811428/134ECC1S23CAITEC-Certificado_1907780.pdf">Economia Circular - Senai Paulo Skaf</a>
 - <a href="https://github.com/LucasBO7/LucasBO7/files/12811433/134D5G1S23CAITEC-Certificado_1904636.pdf">Desvendando o 5G - Senai Paulo Skaf</a>
+- <a href="https://www.credly.com/badges/75beb9bf-4687-4c3c-821c-31e8933891aa/public_url"> PL900: Power Platform - Microsoft</a>
 
 ### Linguagens e Ferramentas
 <div style="display:inline;">
-  <img height="50px" src="https://user-images.githubusercontent.com/87036915/229872354-261ad55b-f3cc-46a2-b8ed-e69113c00f83.png"/>
-  <img height="50px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
+ <img height="50px" src="https://user-images.githubusercontent.com/87036915/229872354-261ad55b-f3cc-46a2-b8ed-e69113c00f83.png"/>
+ <img height="50px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
  <img height="50px" src="https://user-images.githubusercontent.com/87036915/230175283-b0dce678-53cf-426a-b9f5-f1159437d1c3.png"/>
+ <img height="50px" src="https://github.com/LucasBO7/LucasBO7/assets/87036915/da2ee16f-1187-4c64-af73-0b54efff4213"/>
 </div>
 
 <!-- Tabela -->
