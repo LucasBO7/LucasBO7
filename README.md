@@ -25,6 +25,7 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 - <a href="https://github.com/LucasBO7/LucasBO7/files/12811428/134ECC1S23CAITEC-Certificado_1907780.pdf">Economia Circular - Senai Paulo Skaf</a>
 - <a href="https://github.com/LucasBO7/LucasBO7/files/12811433/134D5G1S23CAITEC-Certificado_1904636.pdf">Desvendando o 5G - Senai Paulo Skaf</a>
 - <a href="https://www.credly.com/badges/75beb9bf-4687-4c3c-821c-31e8933891aa/public_url"> PL900: Power Platform - Microsoft</a>
+- <a href="https://www.credly.com/badges/8ddf49e6-c806-4b60-9b06-3d41defe20f4/public_url"> AI900: Azure AI Fundamentals - Microsoft</a>
 
 ### Linguagens e Ferramentas
 <div style="display:inline;">
