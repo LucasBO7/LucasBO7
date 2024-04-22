@@ -1,5 +1,5 @@
 # Lucas Bianchezzi Oliveira
-Estudando para me tornar um Desenvolvedor de Sistemas Full-stack.
+Atualmente cursando o Técnico de Desenvolvimento de Sistemas na Escola Senai Paulo Skaf - SCS.
 
 ***Linguagens:*** Inglês (avançado) <img height="20px" src="https://user-images.githubusercontent.com/87036915/230169640-1db25195-2961-4783-b071-696541b45eaf.png"/> Português (nativo) <img height="20px" src="https://user-images.githubusercontent.com/87036915/230169610-cdbe5e93-d109-43aa-ab03-1ac1f9195d04.png"/>
 
