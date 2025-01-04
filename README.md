@@ -27,13 +27,12 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 - <a href="https://github.com/LucasBO7/LucasBO7/files/12811428/134ECC1S23CAITEC-Certificado_1907780.pdf">Economia Circular - Senai Paulo Skaf</a>
 - <a href="https://github.com/LucasBO7/LucasBO7/files/12811433/134D5G1S23CAITEC-Certificado_1904636.pdf">Desvendando o 5G - Senai Paulo Skaf</a>
 
-
-#### MICROSOFT
-
 <a href="https://www.credly.com/badges/75beb9bf-4687-4c3c-821c-31e8933891aa/public_url">
-<img width="100px" src="https://github.com/LucasBO7/LucasBO7/assets/87036915/7315e3b1-3481-42db-8083-ec12d0df815d" alt="Certificado da PL 900: Power Platform Fundamentals - Microsoft">
+  <img width="100px" src="https://github.com/LucasBO7/LucasBO7/assets/87036915/7315e3b1-3481-42db-8083-ec12d0df815d" alt="Certificado da PL 900: Power Platform Fundamentals - Microsoft">
 </a>
-<a href="https://www.credly.com/badges/8ddf49e6-c806-4b60-9b06-3d41defe20f4/public_url"><img width="100px" src="https://github.com/LucasBO7/LucasBO7/assets/87036915/948412c8-7d45-4f1c-8ddb-ec0b6cef48e3" alt="Certificado da AI900: Azure AI Fundamentals - Microsoft"></a>
+<a href="https://www.credly.com/badges/8ddf49e6-c806-4b60-9b06-3d41defe20f4/public_url">
+  <img width="100px" src="https://github.com/LucasBO7/LucasBO7/assets/87036915/948412c8-7d45-4f1c-8ddb-ec0b6cef48e3" alt="Certificado da AI900: Azure AI Fundamentals - Microsoft">
+</a>
 
 ### Linguagens e Ferramentas
 <div style="display:inline;">
@@ -49,8 +48,7 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 
 <!-- Tabela -->
 <div style="display:inline;">
-<!--- Adiciona o nome do usuário --->
- 
-[![Lucas Bianchezzi Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBO7&github-readme-stats&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBO7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ <a href="https://github.com/LucasBO7"></a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBO7&github-readme-stats&count_private=true&show_icons=true&theme=radical" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBO7&theme=radical&layout=compact" />
+</div>
