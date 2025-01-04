@@ -35,7 +35,7 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 </a>
 
 ### Linguagens e Ferramentas
-<div style="display:inline;">
+<div style="display:inline; margin: 50px;">
  <img height="50px" src="https://user-images.githubusercontent.com/87036915/230175283-b0dce678-53cf-426a-b9f5-f1159437d1c3.png"/>
  <img height="50px" src="https://github.com/user-attachments/assets/938203f8-e89b-4059-a9fa-80f40ee1bf46"/>
  <img height="50px" src="https://github.com/user-attachments/assets/8d910cad-a40f-4dbf-8b87-1d241f9ab795"/>
@@ -45,7 +45,10 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
  <img height="50px" src="https://user-images.githubusercontent.com/87036915/229872780-6d3d1c74-1638-42ae-adb1-0a15bbffed4c.png"/>
  <img height="50px" src="https://github.com/user-attachments/assets/4c7df728-1f00-4175-b7af-35cad4fbe88a"/>
 </div>
+<p></p>
+<p></p>
 
+</div>
 <!-- Tabela -->
 <div style="display:inline;">
  <a href="https://github.com/LucasBO7"></a>
