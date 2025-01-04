@@ -13,14 +13,13 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 <div style="display:inline;">
  
 <div>
-<h2>🌐 Contato 🌐</h2>
-<a href="mailto:lucasbianchezzi700@gmail.com"><img height="50px" src="https://user-images.githubusercontent.com/87036915/234369264-bad088a3-61c9-4cdc-b7fd-a8eabfc01013.png" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/lucas-bianchezzi-oliveira-09b89b1b3/"><img height="50px" src="https://github.com/LucasBO7/LucasBO7/assets/87036915/1e09cdb4-0703-4654-809b-7d1f5c7f9cb5" target="_blank"></a>
-<!-- <a href = "https://www.instagram.com"><img height="50px" src="https://user-images.githubusercontent.com/87036915/234366292-2e3c3070-d1f0-4bfc-9e4d-8d870666f5f2.png" target="_blank"></a> -->
-
+  <h2>🌐 Contato 🌐</h2>
+  <a href="mailto:lucasbianchezzi700@gmail.com"><img height="50px" src="https://user-images.githubusercontent.com/87036915/234369264-bad088a3-61c9-4cdc-b7fd-a8eabfc01013.png" target="_blank"></a>
 </div>
 
-## Informações Técnicas
+<div>
+
+## ℹ️ Informações Técnicas ℹ️
 ### Cursos e Certificados
 - <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c4776bd2-d58d-4551-8011-cf7809a5fddf.pdf">C# Completo e Programação Orientada a Objetos - Udemy</a>
 - <a href="https://github.com/LucasBO7/LucasBO7/files/12811424/134PPD1S23CAITEC-Certificado_1907764.pdf">Privacidade e Proteção de dados LGPD - Senai Paulo Skaf</a>
@@ -49,9 +48,13 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 <p></p>
 
 </div>
+
+</div>
+
 <!-- Tabela -->
 <div style="display:inline;">
  <a href="https://github.com/LucasBO7"></a>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBO7&github-readme-stats&count_private=true&show_icons=true&theme=radical" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBO7&theme=radical&layout=compact" />
 </div>
+
