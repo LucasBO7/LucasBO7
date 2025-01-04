@@ -12,9 +12,10 @@ Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest 
 
 <div style="display:inline;">
  
-<div>
+<div style="display:inline;">
   <h2>🌐 Contato 🌐</h2>
   <a href="mailto:lucasbianchezzi700@gmail.com"><img height="50px" src="https://user-images.githubusercontent.com/87036915/234369264-bad088a3-61c9-4cdc-b7fd-a8eabfc01013.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/lucas-bianchezzi-oliveira-09b89b1b3/"><img height="50px" src="https://github.com/LucasBO7/LucasBO7/assets/87036915/1e09cdb4-0703-4654-809b-7d1f5c7f9cb5" target="_blank"></a>
 </div>
 
 <div>
