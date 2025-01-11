@@ -1,14 +1,12 @@
 # Lucas Bianchezzi Oliveira
 #### Técnico em Desenvolvimento de Sistemas.
 
-Curso concluido no final de 2024 na Escola Senai Paulo Skaf - SCS por 2 anos. Onde desenvolvi soft e hard skills em diversas áreas da tecnologia, permitindo-me desenvolver sistemas completos com planejamento, prototipação, documentação e desenvolvimento completo do sistema com deploy.
-
 ***Linguagens:*** Inglês (avançado) <img height="20px" src="https://user-images.githubusercontent.com/87036915/230169640-1db25195-2961-4783-b071-696541b45eaf.png"/> Português (nativo) <img height="20px" src="https://user-images.githubusercontent.com/87036915/230169610-cdbe5e93-d109-43aa-ab03-1ac1f9195d04.png"/>
 
 
-Olá, eu me chamo Lucas, nasci em 2007, Brasil - SP. Sempre tive um grande interesse em tecnologia e atuo na área de Desenvolvimento de Sistemas. Adoro programar, faço como hobby e cunho profissional. Me considero uma pessoa muito curiosa, disposta a novos aprendizados...
+Olá, eu me chamo Lucas, nasci em 2007, Brasil - SP. Sempre tive um grande interesse em tecnologia e atuo na área de Desenvolvimento de Sistemas, mais especificamente como Back-End. Adoro programar, faço como hobby e cunho profissional. Me considero uma pessoa muito curiosa, disposta a novos aprendizados...
 
-Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest in tecnology and i act in the System`s Development area. I really like to develop, I do it as a hobby and professionally. I consider myself a very curious person, willing to learn new things...
+Hello, I am Lucas, I was born in 2007, Brasil - SP. I always had a big interest in tecnology and i act in the System`s Development area, as Back-End more specifically. I really like to develop, I do it as a hobby and professionally. I consider myself a very curious person, willing to learn new things...
 
 <div style="display:inline;">
  
